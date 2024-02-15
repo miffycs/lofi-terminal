@@ -10,11 +10,11 @@ A terminal-styled web-based music player.
 - [ ] SongBar
     - [ ] Song info
         - Song: Title, Artist, Album
-        - [ ] Mock data?
+        - [x] Mock data
     - [ ] Controls
         - [x] Add svg assets
         - [ ] Audio player
-        - [ ] Audio controls: prev, next, volume
+        - [x] Audio controls: prev, next, volume (clickable buttons)
 - [ ] Music Assets - find API? self-host? static reference?
 - [ ] Pomodoro?
 - [ ] Analytics/Tracking?
