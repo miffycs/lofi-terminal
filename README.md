@@ -5,12 +5,16 @@ A terminal-styled web-based music player.
 ## Design
 
 - [ ] Terminal
-    - [ ] Apply terminal.css
+    - [x] UI using terminal.css
+    - [ ] Responds to terminal commands
 - [ ] SongBar
-    - [ ] Info
+    - [ ] Song info
         - Song: Title, Artist, Album
+        - [ ] Mock data?
     - [ ] Controls
         - [ ] Find assets (img/svg)
+        - [ ] Audio player
+        - [ ] Audio controls
 - [ ] Music Assets - find API? self-host? static reference?
 - [ ] Pomodoro?
 - [ ] Analytics/Tracking?
