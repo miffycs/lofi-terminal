@@ -12,9 +12,9 @@ A terminal-styled web-based music player.
         - Song: Title, Artist, Album
         - [ ] Mock data?
     - [ ] Controls
-        - [ ] Find assets (img/svg)
+        - [x] Add svg assets
         - [ ] Audio player
-        - [ ] Audio controls
+        - [ ] Audio controls: prev, next, volume
 - [ ] Music Assets - find API? self-host? static reference?
 - [ ] Pomodoro?
 - [ ] Analytics/Tracking?
